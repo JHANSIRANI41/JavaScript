@@ -1,2 +1,3 @@
 # JavaScript
-This repository includes all javascript codes.
+#30 Days Challenge
+This repository includes my journey towards Javascript.
